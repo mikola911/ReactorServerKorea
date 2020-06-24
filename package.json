@@ -1,7 +1,7 @@
 {
-  "name": "serverkorea",
+  "name": "reactorsk-forked",
   "version": "1.0.0",
-  "description": "Port of serverKorea.ru to React",
+  "description": "",
   "keywords": [],
   "main": "src/index.jsx",
   "dependencies": {
